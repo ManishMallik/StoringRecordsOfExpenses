@@ -1,0 +1,80 @@
+02/08/2020
+Krogers
+Groceries
+23.08
+03/19/2020
+Miles Electric CO Inc.
+Impairment Charges
+296.0358
+03/20/2020
+Plano East Senior High
+Education
+100.0
+03/20/2020
+WalMart
+Education
+45.24
+03/20/2020
+India Bazaar
+Groceries
+59.48
+03/20/2020
+IRS
+Taxes
+45.86
+03/22/2020
+FMSC
+Donations
+45.0
+03/31/2020
+FMSC
+Donations
+44.97
+04/30/2020
+India Bazaar
+Marketing, Advertising, and Promotion
+93.84
+05/31/2020
+Kohl's
+Marketing, Advertising, and Promotion
+86.97
+07/31/2020
+FMSC
+Donations
+44.59
+09/01/2020
+Nike
+Marketing, Advertising, and Promotion
+87.86
+11/03/2020
+Nike
+Marketing, Advertising, and Promotion
+59.38
+11/25/2020
+FMSC
+Donations
+45.0
+11/30/2020
+Nike
+Marketing, Advertising, and Promotion
+56.84
+12/01/2020
+Adidas
+Marketing, Advertising, and Promotion
+98.87
+12/30/2020
+Nike
+Marketing, Advertising, and Promotion
+93.94
+02/08/2030
+Kohls
+Marketing, Advertising, and Promotion
+23.74
+11/30/2030
+Nike
+Marketing, Advertising, and Promotion
+43.95
+03/03/2038
+Adidas
+Marketing, Advertising, and Promotion
+35.46
