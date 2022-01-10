@@ -6,7 +6,7 @@ import java.util.*;
 import javax.swing.*;
 import java.time.*;
 import java.time.format.DateTimeFormatter;
-//This must be run with Java 11 because the method isBlank() is in Java 11, not Java 8
+
 //This class shows JOptionPanes for user interactions, allowing the user to create accounts log in, and add, edit, delete, or check own expenses
 public class Driver 
 {
@@ -997,4 +997,3 @@ public class Driver
 		return validDate;
     }
 }
-
