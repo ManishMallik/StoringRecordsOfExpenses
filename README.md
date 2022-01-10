@@ -1,2 +1,2 @@
 # StoringRecordsOfExpenses
-This was originally made using JOptionPane. Create the file "userAccounts.dat" before running the program.
+This project utilizes JOptionPane, the simplest GUI in Java.
